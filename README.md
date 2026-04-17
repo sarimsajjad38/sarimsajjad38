@@ -23,16 +23,24 @@
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages  
-`C` `C++` `Java` `Kotlin` `Dart` `Python` `JavaScript`  
+C ▰▰▰▰▰▰▰▰▱▱ 80%  
+C++ ▰▰▰▰▰▰▰▰▱▱ 80%  
+Java ▰▰▰▰▰▰▰▱▱▱ 70%  
+Kotlin ▰▰▰▰▰▰▱▱▱▱ 65%  
+Dart ▰▰▰▰▰▰▰▰▱▱ 80%  
+Python ▰▰▰▰▰▰▰▱▱▱ 70%  
+JavaScript ▰▰▰▰▰▰▰▱▱▱ 70%  
 
 ### 🌐 Development  
-`HTML` `CSS` `React` `Flutter`  
+Flutter ▰▰▰▰▰▰▰▰▱▱ 80%  
+React ▰▰▰▰▰▰▰▱▱▱ 70%  
+HTML/CSS ▰▰▰▰▰▰▰▰▱▱ 80%  
 
 ### ⚙️ Backend & Cloud  
-`Firebase` `Supabase` `MySQL` `Google Cloud`  
-
-### 🎨 Tools  
-`Git` `GitHub` `Figma` `Canva` `Netlify` `Arduino`  
+Firebase ▰▰▰▰▰▰▰▰▱▱ 80%  
+Supabase ▰▰▰▰▰▰▰▱▱▱ 70%  
+MySQL ▰▰▰▰▰▰▰▱▱▱ 70%  
+Google Cloud ▰▰▰▰▰▰▱▱▱▱ 60%  
 
 ---
 
@@ -66,6 +74,14 @@
   <a href="https://github.com/sarimsajjad38">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarimsajjad38&repo=YOUR_REPO_2&theme=radical&hide_border=true"/>
   </a>
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
