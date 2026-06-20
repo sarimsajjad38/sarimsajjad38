@@ -19,15 +19,15 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sarim-sajjad-78b01a243">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="sarimsajjad122@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/sarimsajjad38">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
