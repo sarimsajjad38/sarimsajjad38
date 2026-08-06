@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="sarimsajjad122@gmail.com">
+<a href="mailto:sarimsajjad122@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -33,11 +33,11 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=yourusername\&color=8B5CF6\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sarimsajjad38\&color=8B5CF6\&style=for-the-badge)
 
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/followers/sarimsajjad38?style=for-the-badge\&color=7C3AED)
 
-![](https://img.shields.io/github/stars/yourusername?affiliations=OWNER\&style=for-the-badge\&color=6366F1)
+![](https://img.shields.io/github/stars/sarimsajjad38?affiliations=OWNER\&style=for-the-badge\&color=6366F1)
 
 </div>
 
@@ -138,7 +138,7 @@ A scalable bookstore platform featuring customer management, inventory tracking,
 | Performance | Optimized State Management                |
 | Security    | Firebase Authentication                   |
 | Impact      | Improved Inventory Management             |
-| Repository  | https://github.com/yourusername/bookstore |
+| Repository  | https://github.com/sarimsajjad38/book_store.git |
 
 ### Engineering Highlights
 
@@ -152,54 +152,65 @@ A scalable bookstore platform featuring customer management, inventory tracking,
 </details>
 
 <details>
-<summary><b>💰 Expense Tracker Application</b></summary>
+<summary><b>📡 Pulse Radar Signal Denoising & Target Detection using FIR Filters</b></summary>
 
 ### Project Overview
 
-Cross-platform expense management application built with Flutter and Hive.
+A Digital Signal Processing project developed in GNU Octave/MATLAB that simulates a pulse radar system with FIR filter-based denoising, FFT analysis, SNR evaluation, and target detection.
 
-| Category    | Details                                         |
-| ----------- | ----------------------------------------------- |
-| Stack       | Flutter, Hive                                   |
-| Scale       | Personal Finance Application                    |
-| Performance | Lightweight Storage                             |
-| Security    | Local Data Encryption                           |
-| Impact      | Financial Tracking & Analysis                   |
-| Repository  | https://github.com/yourusername/expense-tracker |
+| Category | Details |
+|----------|---------|
+| Stack | MATLAB, GNU Octave, DSP |
+| Repository | https://github.com/sarimsajjad38/Radar-FIR-Target-Detection |
 
-### Engineering Highlights
+### Highlights
 
-* Local Persistence
-* Data Visualization
-* Theme Management
-* Provider State Management
-* Analytics Dashboard
+- Radar Pulse Generation
+- FIR Filter Design
+- FFT Analysis
+- SNR Evaluation
+- Target Detection
+</details>
+
+<details>
+<summary><b>🤖 AI Interview Assistant</b></summary>
+
+### Project Overview
+
+An AI-powered interview preparation platform that helps users practice technical interviews through intelligent question generation and feedback.
+
+| Category | Details |
+|----------|---------|
+| Stack | Python, AI, Machine Learning |
+| Repository | https://github.com/sarimsajjad38/Interview_assistant |
+
+### Highlights
+
+- AI Interview Simulation
+- Technical Question Generation
+- Interactive User Experience
+- Intelligent Feedback
 
 </details>
 
 <details>
-<summary><b>🌡 Urban Heat Mitigation AI Platform</b></summary>
+<summary><b>🛰 FPGA-Based Satellite Telemetry Processor</b></summary>
 
 ### Project Overview
 
-AI-driven geospatial analysis platform for identifying urban heat stress hotspots and generating cooling recommendations.
+A hardware design project implementing a satellite telemetry processor on FPGA for reliable data acquisition and communication.
 
-| Category    | Details                                       |
-| ----------- | --------------------------------------------- |
-| Stack       | Python, GIS, ML                               |
-| Scale       | City-Level Analysis                           |
-| Performance | Optimized Geospatial Pipelines                |
-| Security    | Secure Data Processing                        |
-| Impact      | Environmental Sustainability                  |
-| Repository  | https://github.com/yourusername/urban-heat-ai |
+| Category | Details |
+|----------|---------|
+| Stack | Verilog, FPGA |
+| Repository | https://github.com/sarimsajjad38/FPGA-Based-Satellite-Telemetry-Processor |
 
-### Engineering Highlights
+### Highlights
 
-* Satellite Data Processing
-* Heat Mapping
-* ML-Based Prediction
-* Physics-Informed Modelling
-* Decision Support System
+- Verilog RTL Design
+- FPGA Implementation
+- Satellite Telemetry Processing
+- Digital System Design
 
 </details>
 
