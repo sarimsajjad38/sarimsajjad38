@@ -222,21 +222,21 @@ A hardware design project implementing a satellite telemetry processor on FPGA f
 
 ### Company Name
 
-**Duration:** Jan 2026 – Present
+# **Duration:** Jan 2026 – Present
 
-Designed and developed scalable software solutions while collaborating with cross-functional teams to deliver high-quality products.
+# Designed and developed scalable software solutions while collaborating with cross-functional teams to deliver high-quality products.
 
 #### Scope of Work
 
-* Developed production-ready features
-* Improved application performance
-* Implemented CI/CD workflows
-* Participated in architecture reviews
-* Contributed to product roadmap discussions
+# * Developed production-ready features
+# * Improved application performance
+# * Implemented CI/CD workflows
+# * Participated in architecture reviews
+# * Contributed to product roadmap discussions
 
-**Skills**
+# **Skills**
 
-`Flutter` `Firebase` `Git` `REST APIs` `Software Engineering`
+# `Flutter` `Firebase` `Git` `REST APIs` `Software Engineering`
 
 ---
 
@@ -244,17 +244,17 @@ Designed and developed scalable software solutions while collaborating with cros
 
 ### Organization Name
 
-**Duration:** Jun 2025 – Dec 2025
+# **Duration:** Jun 2025 – Dec 2025
 
-Worked on machine learning models and analytics pipelines for solving real-world engineering problems.
+# Worked on machine learning models and analytics pipelines for solving real-world engineering problems.
 
 #### Scope of Work
 
-* Built predictive ML models
-* Data preprocessing pipelines
-* Model evaluation
-* Technical documentation
-* Research collaboration
+# * Built predictive ML models
+# * Data preprocessing pipelines
+# * Model evaluation
+# * Technical documentation
+# * Research collaboration
 
 **Skills**
 
@@ -266,14 +266,12 @@ Worked on machine learning models and analytics pipelines for solving real-world
 
 <div align="center">
 
-| Recognition             | Details                     |
-| ----------------------- | --------------------------- |
-|                         |                             |
-| Engineering Student     | B.Tech ECE                  |
-| Open Source Contributor | Community Contributions     |
-| AI Enthusiast           | Applied AI Development      |
-| Flutter Developer       | Cross Platform Apps         |
-| Problem Solver          | Competitive Programming     |
+| Achievement | Details |
+|--------------|---------|
+| 💻 LeetCode | Actively solving Data Structures & Algorithms (DSA) problems and improving problem-solving skills |
+| 📚 IEEE | IEEE & IEEE MTT-S Student Branch Member |
+| 🚀 Projects | Built multiple software, AI/ML, Flutter, FPGA, and Embedded Systems projects |
+| 🌍 Open Source | Regularly building and maintaining open-source projects on GitHub |
 
 </div>
 
@@ -303,21 +301,21 @@ Worked on machine learning models and analytics pipelines for solving real-world
 
 <div align="center">
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/sazaam/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+# <a href="https://www.geeksforgeeks.org">
+# <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+# </a>
 
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+# <a href="https://www.hackerrank.com">
+# <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+# </a>
 
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
+# <a href="https://www.codechef.com">
+# <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+# </a>
 
 </div>
 
@@ -402,7 +400,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:sarimsajjad122@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
