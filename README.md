@@ -216,7 +216,7 @@ A hardware design project implementing a satellite telemetry processor on FPGA f
 
 ---
 
-# Experience
+<!-- # Experience
 
 ## Software Engineering Intern
 
@@ -258,7 +258,7 @@ A hardware design project implementing a satellite telemetry processor on FPGA f
 
 **Skills**
 
-`Python` `Machine Learning` `Data Science` `Research`
+`Python` `Machine Learning` `Data Science` `Research`-->
 
 ---
 
@@ -305,7 +305,7 @@ A hardware design project implementing a satellite telemetry processor on FPGA f
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-# <a href="https://www.geeksforgeeks.org">
+<!-- # <a href="https://www.geeksforgeeks.org">
 # <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 # </a>
 
@@ -315,7 +315,7 @@ A hardware design project implementing a satellite telemetry processor on FPGA f
 
 # <a href="https://www.codechef.com">
 # <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-# </a>
+# </a>-->
 
 </div>
 
